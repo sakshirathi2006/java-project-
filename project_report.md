@@ -1,11 +1,12 @@
-# Campus Course & Records Manager
+<img width="410" height="457" alt="architectdiagram" src="https://github.com/user-attachments/assets/39f00d19-30c3-4796-8e7c-836f74136543" /># Campus Course & Records Manager
 ## Project Report
 
 ### 1. Introduction
 CCRM helps educational institutions manage academic records...
 
 ### 2. Problem Statement  
-[Copy from statement.md]
+
+During my academic experience, I noticed that manual student record management leads to frequent errors in enrollment tracking and grade calculation. This project addresses those specific pain points by automating...
 
 ### 3. Functional Requirements
 - Student management (add, update, list)
@@ -20,10 +21,18 @@ CCRM helps educational institutions manage academic records...
 - Maintainability: Modular Java code
 
 ### 5. System Architecture
-[Insert your generated architecture diagram]
+<img width="410" height="457" alt="architectdiagram" src="https://github.com/user-attachments/assets/05eab399-e518-4fa0-a484-874fb518d680" />
+or see in image uplpoaded on repository
+<img width="415" height="460" alt="Screenshot 2025-11-22 205028" src="https://github.com/user-attachments/assets/b46b4e1b-9911-4886-850e-a54f4fd6c061" />
+
+
 
 ### 6. Design Diagrams  
-[Insert your generated class diagram]
+<img width="443" height="521" alt="class diagram" src="https://github.com/user-attachments/assets/5a04536e-5956-46fe-bc3a-474d17e3b740" />
+<img width="456" height="527" alt="Screenshot 2025-11-22 204904" src="https://github.com/user-attachments/assets/fd84b4ff-47da-4cb6-90f5-c85d182b1fe2" />
+<img width="403" height="565" alt="Screenshot 2025-11-22 205045" src="https://github.com/user-attachments/assets/53992242-74f9-4a84-8d14-d9b78d6213da" />
+
+
 
 ### 7. Implementation Details
 Used Java with packages: domain, service, io, config
